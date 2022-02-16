@@ -1,0 +1,28 @@
+.inputbox {
+  height: 24px;
+  width: 164px;
+  border: 1.5px solid black;
+  position: relative;
+  display: inline;
+  margin-left: 429px;
+  margin-top: 44px;
+}
+
+.search{
+    width: 70px;
+    height: 29px;
+    margin-left: 11px;
+    color: blue;
+    background-color: lavenderblush;
+}
+
+table, th, td,tr {
+ 
+    width: 50%;
+    border-bottom: 1px solid rgb(110, 34, 34);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+
+    color: blue;
+  }
